@@ -1,6 +1,9 @@
 # Steffi
 jupyterlab-open-url-parameter
 rise
+jupyterlab_git
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
 
 # Core modules (mandatory)
 jupyterlite-core
