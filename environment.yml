@@ -6,7 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - ipycanvas
-  - jupyterlab-git
   - rise
   - jupyterlab-rise
 # https://pypi.org/project/jupyterlite-xeus-python/ der xeus-python Kernel benutzt das hier
