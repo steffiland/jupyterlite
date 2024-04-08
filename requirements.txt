@@ -1,7 +1,7 @@
 # Steffi
 jupyterlab-open-url-parameter
 rise
-jupyterlab_git
+jupyterlab-git
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 
