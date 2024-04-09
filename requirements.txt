@@ -4,7 +4,7 @@ rise
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlite-xeus-python
-xeus-javascript
+ipydrawio[all]
 
 # Core modules (mandatory)
 jupyterlite-core
