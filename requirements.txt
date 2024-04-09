@@ -4,6 +4,7 @@ rise
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlite-xeus-python
+jupyterlite-xeus-javascript
 
 # Core modules (mandatory)
 jupyterlite-core
