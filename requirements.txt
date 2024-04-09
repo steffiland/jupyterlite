@@ -5,6 +5,8 @@ jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterlite-xeus-python
 ipydrawio[all]
+jupyterlab-git
+jupyterlab_git
 
 # Core modules (mandatory)
 jupyterlite-core
