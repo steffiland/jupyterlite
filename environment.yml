@@ -6,5 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - ipycanvas
+  - recipe_scrapers
 
 # https://pypi.org/project/jupyterlite-xeus-python/ der xeus-python Kernel benutzt das hier
