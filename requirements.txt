@@ -6,7 +6,7 @@ jupyter_nbextensions_configurator
 jupyterlite-xeus-python
 ipydrawio[all]
 jupyterlab-git
-jupyterlab_git
+recipe-scrapers
 
 # Core modules (mandatory)
 jupyterlite-core
