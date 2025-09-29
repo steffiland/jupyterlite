@@ -7,6 +7,7 @@ jupyterlite-xeus-python
 ipydrawio[all]
 jupyterlab-git
 recipe-scrapers
+jupyter-ai[all]
 
 # Core modules (mandatory)
 jupyterlite-core
