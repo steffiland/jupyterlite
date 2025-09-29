@@ -24,8 +24,8 @@ jobs:
           python -m pip install -U -r requirements.txt
       - name: Build the JupyterLite site
         run: |
+          rm -rf .jupyterlite.doit.db ./dist
           jupyter lite build
-          rm .jupyterlite.doit.db
           cp README.md content/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
