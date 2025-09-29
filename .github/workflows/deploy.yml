@@ -29,6 +29,7 @@ jobs:
           environment-file: build-environment.yml
           cache-environment: true
       - name: Build the JupyterLite site
+        shell: bash -l {0}
         run: |
           rm -rf .jupyterlite.doit.db ./dist
           cp README.md content/

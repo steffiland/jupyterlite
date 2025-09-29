@@ -4,4 +4,18 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - ipycanvas
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - xeus-cpp
+  - pip:
+      - ipycanvas
+      - jupyterlab-open-url-parameter
+      - rise
+      - ipydrawio[all]
+      - jupyterlab-git
+      - jupyterlite-pyodide-kernel
+      - jupyterlite-javascript-kernel
+      - ipympl
+      - plotly
+      - bqplot
